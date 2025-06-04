@@ -1,1 +1,2 @@
-# coding-project-template
+# VoiceAssistant
+Building a simple Voice Assistant
